@@ -1,0 +1,15 @@
+{
+  "plugins": [
+    "@babel/plugin-transform-runtime"
+  ],
+
+  "presets": [
+    "react",
+    [
+      "@babel/preset-env",
+      {
+        "useBuiltIns": "entry"
+      }
+    ]
+  ]
+}
