@@ -10,15 +10,13 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@babel/core": "^7.18.2",
-    "@babel/plugin-transform-runtime": "^7.18.2",
-    "parcel-bundler": "^1.12.3"
+    "parcel": "^2.6.0",
+    "process": "^0.11.10"
   },
   "dependencies": {
     "freactal": "^2.0.3",
-    "grommet": "^2.7.8",
-    "react": "^16.9.0",
-    "react-dom": "^16.9.0",
-    "styled-components": "^4.3.2"
+    "grommet": "^2.23.0",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
   }
 }
