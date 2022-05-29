@@ -3,3 +3,4 @@ dist
 .cache
 *.code-workspace
 .parcel-cache
+.tool-versions
